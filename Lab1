@@ -1,0 +1,11 @@
+Convert the numbers on the left from decimal to binary to hex.
+Use different random seeds (-s <seed>) to get different problems.
+Specify the number of questions with (-n <number>), and see if you
+are right by having the program solve it for you (-c).
+
+decimal     binary        hex
+     108      1101100      6c  
+      97      01100001     61 
+      53      00110101     35
+      33      00100001     21
+      65      01000001     41
